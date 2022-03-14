@@ -1,7 +1,7 @@
 # PID-cruise-controller
 > PID and 'bang-bang' speed controllers for vehicles
 
-This program uses a speed simulator that gives an output speed and can receive acceleration inputs, but without the possibility to set an exact speed.
+This program uses a simulator that gives an output speed and can receive acceleration inputs, but without the possibility to set an exact speed.
 
 <h3>What I learned</h3>
 <ul>
