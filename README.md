@@ -6,3 +6,5 @@
   <li>Implementing mathematical functions as a discrete data-set and real-time mapping, i.e. taking speed records, calculate error margin with the objective and compute an acceleration pulse, based on error coefficient, its derivative and previous errors integration.</li>
   <li>Observer pattern implementation</li>
 </ul>
+
+![Capture](https://user-images.githubusercontent.com/29238761/158176752-b0fc9405-8c7c-4ced-a3d5-796aadd314af.png)
